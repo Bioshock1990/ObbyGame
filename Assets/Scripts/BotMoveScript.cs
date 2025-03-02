@@ -5,7 +5,7 @@ public class BotMoveScript : MonoBehaviour
 {
     public bool _isStarted = false;
     [SerializeField] private SplineContainer spline;
-    [SerializeField] private float _maxSpeed = 1f;
+    public float _maxSpeed = 1f;
     [SerializeField] private float _timeToMaxSpeed = 2f;
 
     private float splineLength;
