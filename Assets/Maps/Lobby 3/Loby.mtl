@@ -1,0 +1,440 @@
+newmtl Wedge2Mtl
+Material Color
+Ka 0.103634 0.329729 0.0697271
+Kd 0.103634 0.329729 0.0697271
+Ks 0.0410472 0.130599 0.0276174 
+
+d 1
+
+Ns 0
+
+newmtl Part1Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0562353 0.052761 0.0420461 
+
+d 1
+
+Ns 0
+
+newmtl Bush1Mtl
+Material Color
+Ka 0.363604 0.560499 0.267358
+Kd 0.363604 0.560499 0.267358
+Ks 0.144016 0.222002 0.105895 
+
+d 1
+
+Ns 0
+
+newmtl Handle1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Handle1_diff.png
+map_Kd Handle1_diff.png
+map_d Handle1_diff.png
+
+newmtl Curve11Mtl
+Material Color
+Ka 1 1 0.612066
+Kd 1 1 0.612066
+Ks 0.396078 0.396078 0.242426 
+
+d 1
+
+Ns 0
+
+newmtl Support1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+newmtl Wedge1Mtl
+Material Color
+Ka 0.20471 0.106156 0.0581872
+Kd 0.20471 0.106156 0.0581872
+Ks 0.0810813 0.0420461 0.0230467 
+
+d 1
+
+Ns 0
+
+newmtl Handle3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Handle3_diff.png
+map_Kd Handle3_diff.png
+map_d Handle3_diff.png
+
+newmtl Wedge126Mtl
+Material Color
+Ka 1 0.0986892 0.0986892
+Kd 1 0.0986892 0.0986892
+Ks 0.396078 0.0390887 0.0390887 
+
+d 1
+
+Ns 0
+
+newmtl Wedge65Mtl
+Material Color
+Ka 0.306635 0.193972 0.186989
+Kd 0.306635 0.193972 0.186989
+Ks 0.121451 0.0768282 0.0740621 
+
+d 1
+
+Ns 0
+
+newmtl Wedge128Mtl
+Material Color
+Ka 0.306635 0.254916 0.25084
+Kd 0.306635 0.254916 0.25084
+Ks 0.121451 0.100967 0.0993524 
+
+d 1
+
+Ns 0
+
+newmtl Center1Mtl
+Material Color
+Ka 0.91575 0.618686 0.0253713
+Kd 0.91575 0.618686 0.0253713
+Ks 0.362709 0.245048 0.010049 
+
+d 1
+
+Ns 0
+
+newmtl Petals1Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.222002 0.0067286 0.00307001 
+
+d 1
+
+Ns 0
+
+newmtl Leaves1Mtl
+Material Color
+Ka 0.0677246 0.315763 0.0677246
+Kd 0.0677246 0.315763 0.0677246
+Ks 0.0268243 0.125067 0.0268243 
+
+d 0.803922
+
+Ns 0
+
+newmtl Stem1Mtl
+Material Color
+Ka 0.378676 0.517401 0.0600316
+Kd 0.378676 0.517401 0.0600316
+Ks 0.149986 0.204932 0.0237772 
+
+d 1
+
+Ns 0
+
+newmtl Petals2Mtl
+Material Color
+Ka 0.812241 0.499505 0.585973
+Kd 0.812241 0.499505 0.585973
+Ks 0.321711 0.197843 0.232091 
+
+d 1
+
+Ns 0
+
+newmtl Union378Mtl
+Material Color
+Ka 0.867136 0.487765 0.0356144
+Kd 0.867136 0.487765 0.0356144
+Ks 0.343454 0.193193 0.0141061 
+
+d 1
+
+Ns 0
+
+newmtl Grass1Mtl
+Material Color
+Ka 0.0677246 0.315763 0.0677246
+Kd 0.0677246 0.315763 0.0677246
+Ks 0.0268243 0.125067 0.0268243 
+
+d 1
+
+Ns 0
+
+newmtl Union2Mtl
+Material Color
+Ka 0.103634 0.329729 0.0697271
+Kd 0.103634 0.329729 0.0697271
+Ks 0.0410472 0.130599 0.0276174 
+
+d 0.701961
+
+Ns 0
+
+newmtl Union7Mtl
+Material Color
+Ka 0.103634 0.329729 0.0697271
+Kd 0.103634 0.329729 0.0697271
+Ks 0.0410472 0.130599 0.0276174 
+
+d 0.4
+
+Ns 0
+
+newmtl Petals4Mtl
+Material Color
+Ka 0 0.280124 0.339223
+Kd 0 0.280124 0.339223
+Ks 0 0.110951 0.134359 
+
+d 1
+
+Ns 0
+
+newmtl Part136Mtl
+Material Color
+Ka 0.280124 0.0697271 0.018913
+Kd 0.280124 0.0697271 0.018913
+Ks 0.110951 0.0276174 0.00749103 
+
+d 1
+
+Ns 0
+
+newmtl Petals7Mtl
+Material Color
+Ka 0.267358 0.103634 0.353741
+Kd 0.267358 0.103634 0.353741
+Ks 0.105895 0.0410472 0.140109 
+
+d 1
+
+Ns 0
+
+newmtl Petals11Mtl
+Material Color
+Ka 0.157281 0.325037 0.598942
+Kd 0.157281 0.325037 0.598942
+Ks 0.0622955 0.12874 0.237228 
+
+d 1
+
+Ns 0
+
+newmtl Union14Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Ring1Mtl
+Material Color
+Ka 0.0915184 0.0511221 0.0328759
+Kd 0.0915184 0.0511221 0.0328759
+Ks 0.0362484 0.0202483 0.0130214 
+
+d 1
+
+Ns 0
+
+newmtl Union34Mtl
+Material Color
+Ka 0.21952 0.505432 0.715465
+Kd 0.21952 0.505432 0.715465
+Ks 0.086947 0.200191 0.28338 
+
+d 1
+
+Ns 0
+
+newmtl Union36Mtl
+Material Color
+Ka 0.311181 0.0891935 0.0891935
+Kd 0.311181 0.0891935 0.0891935
+Ks 0.123252 0.0353276 0.0353276 
+
+d 1
+
+Ns 0
+
+newmtl Union37Mtl
+Material Color
+Ka 0.151058 0.0962661 0.0677246
+Kd 0.151058 0.0962661 0.0677246
+Ks 0.0598308 0.0381289 0.0268243 
+
+d 1
+
+Ns 0
+
+newmtl Union163Mtl
+Material Color
+Ka 0.74453 0.74453 0.737205
+Kd 0.74453 0.74453 0.737205
+Ks 0.294892 0.294892 0.291991 
+
+d 1
+
+Ns 0
+
+newmtl Curve7Mtl
+Material Color
+Ka 0.505432 0.45908 0.453456
+Kd 0.505432 0.45908 0.453456
+Ks 0.200191 0.181832 0.179604 
+
+d 1
+
+Ns 0
+
+newmtl Part148Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0562353 0.052761 0.0420461 
+
+d 0.603922
+
+Ns 0
+
+newmtl Part268Mtl
+Material Color
+Ka 0.00293232 0.859174 0.666117
+Kd 0.00293232 0.859174 0.666117
+Ks 0.00116143 0.3403 0.263835 
+
+d 0.2
+
+Ns 0
+
+newmtl Part2619Mtl
+Material Color
+Ka 0.579547 0.666117 0.781751
+Kd 0.579547 0.666117 0.781751
+Ks 0.229546 0.263835 0.309635 
+
+d 1
+
+Ns 0
+
+newmtl Sign1Mtl
+Material Color
+Ka 0.0824142 0.20471 0.43134
+Kd 0.0824142 0.20471 0.43134
+Ks 0.0326425 0.0810813 0.170845 
+
+d 1
+
+Ns 0
+
+newmtl Union186Mtl
+Material Color
+Ka 0.000638183 0.254916 0.632043
+Kd 0.000638183 0.254916 0.632043
+Ks 0.00025277 0.100967 0.250338 
+
+d 1
+
+Ns 0
+
+newmtl Union280Mtl
+Material Color
+Ka 0.259027 0.415148 0.238828
+Kd 0.259027 0.415148 0.238828
+Ks 0.102595 0.164431 0.0945946 
+
+d 1
+
+Ns 0
+
+newmtl Union357Mtl
+Material Color
+Ka 0.598942 0.605484 0.645555
+Kd 0.598942 0.605484 0.645555
+Ks 0.237228 0.239819 0.255691 
+
+d 1
+
+Ns 0
+
+newmtl Fountainwater1Mtl
+Material Color
+Ka 0.00143313 0.14198 0.420508
+Kd 0.00143313 0.14198 0.420508
+Ks 0.000567634 0.0562353 0.166554 
+
+d 0.4
+
+Ns 0
+
+newmtl Sword1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Sword1_diff.png
+map_Kd Sword1_diff.png
+map_d Sword1_diff.png
+
+newmtl Duck1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Duck1_diff.png
+map_Kd Duck1_diff.png
+map_d Duck1_diff.png
+
+newmtl Handle14Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Handle14_diff.png
+map_Kd Handle14_diff.png
+map_d Handle14_diff.png
+
